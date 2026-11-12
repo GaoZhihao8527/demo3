@@ -1,0 +1,35 @@
+﻿{
+    "files": [
+        {
+            "path": "1 - 副本 (2).txt",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        {
+            "path": "1 - 副本.txt",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        {
+            "path": "1.txt",
+            "sha256": "661122966047989bd457bbe648a8e9792bfa9d1c7f1f4f190a9c14b2f05ef5a1",
+            "size": 6
+        },
+        {
+            "path": "tese/2 - 副本 (2).txt",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        {
+            "path": "tese/2 - 副本.txt",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        {
+            "path": "tese/2.txt",
+            "sha256": "b1ab1e892617f210425f658cf1d361b5489028c8771b56d845fe1c62c1fbc8b0",
+            "size": 4
+        }
+    ],
+    "version": "1.0.0"
+}
